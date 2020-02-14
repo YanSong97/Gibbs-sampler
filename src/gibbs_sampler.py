@@ -3,6 +3,7 @@
 """
     File name: gibbs_sampler.py
     Description: a re-implementation of the Gibbs sampler for http://www.gatsby.ucl.ac.uk/teaching/courses/ml1
+    Author: YanSong
     Date created: December 2019
     Python version: 3.6
 """
